@@ -1,0 +1,18 @@
+[01-Feb-2011 12:12:23] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 14
+[01-Feb-2011 12:12:47] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 14
+[01-Feb-2011 13:35:58] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 14
+[01-Feb-2011 13:59:55] PHP Fatal error:  Call to undefined function  dsm() in /home/jivejf/public_html/sites/all/themes/ivorypearl/node.tpl.php on line 99
+[09-Feb-2011 17:12:10] PHP Parse error:  syntax error, unexpected '<' in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 18
+[22-Feb-2011 11:53:31] PHP Fatal error:  Cannot redeclare ivorypearl_preprocess_node() (previously declared in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php:6) in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 38
+[23-Feb-2011 12:48:37] PHP Fatal error:  Call to undefined function  ivorypearl_id_safe() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 58
+[23-Feb-2011 12:48:37] PHP Fatal error:  Call to undefined function  ivorypearl_id_safe() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 58
+[23-Feb-2011 12:48:37] PHP Fatal error:  Call to undefined function  ivorypearl_id_safe() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 58
+[23-Feb-2011 12:48:38] PHP Fatal error:  Call to undefined function  ivorypearl_id_safe() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 58
+[23-Feb-2011 12:59:30] PHP Fatal error:  Call to undefined function  ivorypearl_id_safe() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 58
+[23-Feb-2011 13:04:16] PHP Fatal error:  Call to undefined function  ivorypearl_id_safe() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 58
+[23-Feb-2011 13:33:19] PHP Fatal error:  Call to undefined function  ivorypearl_id_safe() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 58
+[23-Feb-2011 13:48:29] PHP Fatal error:  Call to undefined function  ivorypearl_id_safe() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 58
+[23-Feb-2011 14:22:52] PHP Fatal error:  Call to undefined function  ivorypearl_id_safe() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 58
+[23-Feb-2011 14:26:17] PHP Fatal error:  Call to undefined function  ivorypearl_id_safe() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 58
+[23-Feb-2011 16:46:14] PHP Fatal error:  Call to undefined function  _ivorypearl_theme() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 50
+[23-Feb-2011 16:46:16] PHP Fatal error:  Call to undefined function  _ivorypearl_theme() in /home/jivejf/public_html/sites/all/themes/ivorypearl/template.php on line 50

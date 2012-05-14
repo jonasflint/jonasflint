@@ -1,0 +1,27 @@
+name = Ivorypearl
+description = Ivory Pearl 2 column blog theme
+screenshot = screenshot.png
+core = 7.x
+version = "7.x"
+engine = phptemplate
+
+
+regions[section_header] = Header
+regions[home_right_column] = Home Right Column
+regions[home_left_column] = Home Left Column
+regions[content] = Content
+regions[comments] = Commments
+regions[section_right_column] = Section Right Column
+regions[section_left_column] = Section Left Column
+regions[section_below_container] = Below the Container
+regions[footer] = Footer
+
+stylesheets[all][] = css/styles.css
+conditional-stylesheets[if IE 6][all][] = css/ie6.css
+conditional-stylesheets[if IE 7][all][] = css/ie7.css
+scripts[] = js/jquery.swfobject.1.0.7.min.js
+scripts[] = js/jquery-ui-1.7.2.custom.min.js
+scripts[] = js/jquery.launch.js
+
+
+

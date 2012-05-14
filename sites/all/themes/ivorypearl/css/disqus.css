@@ -1,0 +1,30 @@
+P
+{
+}
+#dsq-content #dsq-global-toolbar
+{
+	margin: 18px 0 0;
+	border: none;
+	background: none;
+}
+#disqus_thread
+{
+	margin-bottom: 10px;
+	border: 1px solid #000000;
+	margin: 29px 0 0;
+}
+.dsq-collapse-toggle SPAN
+{
+	display: block;
+	width: 11px;
+	height: 12px;
+	background: url(../../images/themes/namethis/thread-collapse-icons.png) 0 -12px;
+	text-indent: -9999em;
+	border: 1px solid #000000;
+}
+A.dsq-subscribe-email EM, A.dsq-subscribe-rss EM
+{
+	text-decoration: none;
+	font-style: normal;
+	color: #C00000;
+}
